@@ -1,7 +1,7 @@
-var situation = {"name":"Layer","type":"FeatureCollection",
+{"name":"Layer","type":"FeatureCollection",
 "crs": {"type": "name","properties": {"name": "EPSG:4326"}},
 "features":[
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-113.9264527063343,54.2888907165595]},"properties":{"SIDC":"SFG-UUS---AF***","name":"41","fullname":"41 Signal Regiment","command":"FTS"}}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-113.9264527063343,53.2888907165595]},"properties":{"SIDC":"SFG-UUS---AF***","name":"41","fullname":"41 Signal Regiment","command":"FTS"}}
 ,{"type":"Feature","geometry":{"type":"Point","coordinates":[-113.5604869967705,52.5966818958909]},"properties":{"SIDC":"SFG-UUS----E***","name":"1","fullname":"1 Sqn 41 Sig Regt","command":"41 Sig Regt"}}
 
 
